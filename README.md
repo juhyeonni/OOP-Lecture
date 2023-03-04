@@ -3,4 +3,6 @@ This repository has been created to organize my OOP (Object-Oriented Programming
 
 I plan to use this repository to keep track of my coursework, assignments, and projects related to the class. Additionally, I will use this repository to document my learning process and to take notes on important concepts covered in class.
 
-By organizing my materials and documenting my progress, I hope to create a valuable resource for myself and others who may be studying OOP.
+By organizing my materials and documenting my progress, I hope to create a valuable resource for myself and others who may be studying OOP.  
+  
+[My devlog](https://d556f8.netlify.app/)
