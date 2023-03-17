@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@notionhq/client": "^2.2.3",
+    "dotenv": "^16.0.3",
+    "notion-markdownify": "^0.0.11",
+    "notion-to-md": "^2.5.5"
+  },
+  "scripts": {
+    "gen": "node generator.js"
+  },
+  "type": "module"
+}
