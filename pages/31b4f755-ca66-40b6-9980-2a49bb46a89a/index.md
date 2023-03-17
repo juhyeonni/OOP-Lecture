@@ -1,8 +1,8 @@
 ---
 title: 'Java Basic'
-date: '2023-03-03 08:51:00'
+date: '2023-03-06 08:31:00'
 author: 'Juhyeon Lee'
-tags: primitive type reference type
+tags: primitive type reference type scpark
 categories: 'JavaLearningPages'
 ---
 
