@@ -22,6 +22,15 @@ class Box {
         this.isSet[2] = true;
     }
 
+    public int getVolume() {
+      return width*height*length;
+    }
+
+    public static Box whoIsLargerBox(Box obj1, Box obj2) {
+      Box larger = (obj1.getVolume() > obj2.getVolume()) ? obj1 : obj2;
+
+      return larger;
+    }
 
     public void setWidth(int argWidth) {
         this.width = argWidth;
@@ -62,33 +71,40 @@ class Box {
 
 class Test {
     public static void main(String[] args) {
-        // 아무 데이터가 없는 객체
-        Box obj1 = new Box();
-        obj1.prtInfo();
-        System.out.println();
+        // // 아무 데이터가 없는 객체
+        // Box obj1 = new Box();
+        // obj1.prtInfo();
+        // System.out.println();
 
 
-        // 모든 데이터가 있는 객체
-        Box obj2 = new Box(1, 1, 2);
-        obj2.prtInfo();
-        System.out.println();
+        // // 모든 데이터가 있는 객체
+        // Box obj2 = new Box(1, 1, 2);
+        // obj2.prtInfo();
+        // System.out.println();
 
 
-        // 모든 데이터가 없지만, 하나하나 대입하는 객체
-        Box obj3 = new Box();
-        obj3.prtInfo();
-        System.out.println();
+        // // 모든 데이터가 없지만, 하나하나 대입하는 객체
+        // Box obj3 = new Box();
+        // obj3.prtInfo();
+        // System.out.println();
 
-        obj3.setWidth(2);       // 가로 값 입력
-        obj3.prtInfo();
-        System.out.println();
+        // obj3.setWidth(2);       // 가로 값 입력
+        // obj3.prtInfo();
+        // System.out.println();
 
-        obj3.setHeight(3);      // 높이 값 입력
-        obj3.prtInfo();
-        System.out.println();
+        // obj3.setHeight(3);      // 높이 값 입력
+        // obj3.prtInfo();
+        // System.out.println();
 
-        obj3.setLength(4);      // 세로 값 입력
-        obj3.prtInfo();
-        System.out.println();
+        // obj3.setLength(4);      // 세로 값 입력
+        // obj3.prtInfo();
+        // System.out.println();
+
+        // System.out.println(obj3.getVolume());
+        Box obj1 = new Box(10 , 10, 10);
+        Box obj2 = new Box(10, 10, 11);
+
+        Box larger = Box.whoIsLargerBox(obj1, obj2);
+        larger.prtInfo();
     }
 }
