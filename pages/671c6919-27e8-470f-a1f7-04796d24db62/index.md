@@ -249,7 +249,7 @@ class Scratch {
 추상화: 강제적으로 자손이 속성이나 메소드를 가지게 하기 위해서.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9e0f81ed-1914-4a0c-af97-9026a1c0cbd8/D77CE854-3768-45EE-BB6A-A53D9B68DD59_1_105_c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230317T085112Z&X-Amz-Expires=3600&X-Amz-Signature=98369e60dd0125684ba07bee20979fc90e5d1bac974e82c00e4de3dcd8e0b39f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9e0f81ed-1914-4a0c-af97-9026a1c0cbd8/D77CE854-3768-45EE-BB6A-A53D9B68DD59_1_105_c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230330T020249Z&X-Amz-Expires=3600&X-Amz-Signature=64299a35352902c4c09307a4620052bd6127dc2abed944d13b11f2f96ba40284&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 # Detail
@@ -763,10 +763,10 @@ public class A {
 ```
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6e70ab7-37c1-46dd-a041-ca12225e19f4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230317T085113Z&X-Amz-Expires=3600&X-Amz-Signature=f3cfeb56e31f6e3253acaad9ca7faadffc73f7e7f872fa4a85011b7c6a232345&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6e70ab7-37c1-46dd-a041-ca12225e19f4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230330T020251Z&X-Amz-Expires=3600&X-Amz-Signature=5b22217c6f3c48abee473e6a4940ba2447640e44b44b337b5fbe49b110c83887&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf7e3a0d-ecc6-4a39-810f-8e1b7007ed06/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230317T085113Z&X-Amz-Expires=3600&X-Amz-Signature=b4e37e3c539976554634243b2e5fd1e5ed5d41b74bb142aab6e66be1957e3fd8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf7e3a0d-ecc6-4a39-810f-8e1b7007ed06/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230330T020251Z&X-Amz-Expires=3600&X-Amz-Signature=2e1fb244078753ce202ea92c1cd35861764a90faecc92c61485ce3ef0a95baa2&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 ## 다형성

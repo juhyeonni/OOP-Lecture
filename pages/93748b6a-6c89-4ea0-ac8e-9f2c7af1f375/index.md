@@ -9,7 +9,7 @@ categories: 'JavaLearningPages'
 # 예외 처리(Exception Handling)
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b50d85cd-8af2-411b-a09e-a96926bbf052/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230317T085117Z&X-Amz-Expires=3600&X-Amz-Signature=c3df6fe37468b66526a8b023f28efe6e43462c299c5c86a983817ba4029b8433&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b50d85cd-8af2-411b-a09e-a96926bbf052/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230330T020257Z&X-Amz-Expires=3600&X-Amz-Signature=2c27293c24700f768ac322dd24803120feed24fd1e8e40321c71cbd2eda4f158&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 Happy Scenario에서 벗어나는 경우 (비정상적인 종료 또는 데이터처리에 문제가 생기는 경우),

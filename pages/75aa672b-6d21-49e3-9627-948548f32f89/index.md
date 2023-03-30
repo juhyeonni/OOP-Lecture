@@ -1,6 +1,6 @@
 ---
 title: 'Constructor'
-date: '2023-03-16 02:21:00'
+date: '2023-03-23 02:15:00'
 author: 'Juhyeon Lee'
 tags: 
 categories: 'JavaLearningPages'

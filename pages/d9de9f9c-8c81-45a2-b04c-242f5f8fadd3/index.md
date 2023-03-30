@@ -180,7 +180,7 @@ public class Mafoo {
 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0adcb5c8-629f-4edf-ab3b-6629e37ce51e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230317%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230317T085114Z&X-Amz-Expires=3600&X-Amz-Signature=eb86ee3157d4a7e5b192a3c582f6c8af45cae3919a1b6cec189e150819f5001a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0adcb5c8-629f-4edf-ab3b-6629e37ce51e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230330%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230330T020253Z&X-Amz-Expires=3600&X-Amz-Signature=3ee4016f98ecbedb6e7b2a8aba84698a882e8ffeba29ea00c07a9358e1d5f9bd&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 
 모듈화된 클래스를 가져다가 쓸 수 있다.
